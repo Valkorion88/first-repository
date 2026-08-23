@@ -1,1 +1,7 @@
 my first repository
+
+project description
+
+list of features
+-feature 1
+-feature 2
