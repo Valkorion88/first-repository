@@ -1,7 +1,8 @@
-my first repository
+my second repository
 
-project description
+project
 
 list of features
 -feature 1
 -feature 2
+-feature 3
